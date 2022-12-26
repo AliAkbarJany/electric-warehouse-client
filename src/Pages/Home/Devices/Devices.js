@@ -8,7 +8,7 @@ const Devices = () => {
     const preciseDevice=devices.slice(0,6)
 
     useEffect(() => {
-        fetch('https://safe-crag-17725.herokuapp.com/devices')
+        fetch('https://electric-warehose-server.onrender.com/devices')
             .then(res => res.json())
             .then(data => setDevices(data))
     }, [])

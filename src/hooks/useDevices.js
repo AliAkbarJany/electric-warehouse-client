@@ -5,7 +5,7 @@ const useDevices = () => {
     const [devices, setDevices] = useState([])
 
     useEffect(() => {
-        fetch('https://safe-crag-17725.herokuapp.com/devices')
+        fetch('https://electric-warehose-server.onrender.com/devices')
             .then(res => res.json())
             .then(data => setDevices(data))
     }, [])

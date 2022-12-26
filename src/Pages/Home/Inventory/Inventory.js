@@ -5,7 +5,7 @@ const Inventory = () => {
     const { id } = useParams()
     const [device, setdevice] = useState({})
     useEffect(() => {
-        const url = `https://safe-crag-17725.herokuapp.com/devices/${id}`
+        const url = `https://electric-warehose-server.onrender.com/devices/${id}`
         fetch(url)
             .then(res => res.json())
             .then(data => setdevice(data))

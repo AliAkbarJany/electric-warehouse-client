@@ -7,7 +7,7 @@ const DeleteAdd = ({ device }) => {
     const handleDelete=id=>{
         const proceed =window.confirm('Are you sure to Delete Device')
         if(proceed){
-            fetch(`https://safe-crag-17725.herokuapp.com/devices/${id}`,{
+            fetch(`https://electric-warehose-server.onrender.com/devices/${id}`,{
                 method: 'DELETE',
             })
             .then(res=>res.json())

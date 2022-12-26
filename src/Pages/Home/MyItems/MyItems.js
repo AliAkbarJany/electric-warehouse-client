@@ -9,7 +9,7 @@ const MyItems = () => {
     const [pageSize,setPageSize]=useState(9)
 
     useEffect(() => {
-        fetch('https://safe-crag-17725.herokuapp.com/allDevicesCount')
+        fetch('https://electric-warehose-server.onrender.com/allDevicesCount')
             .then(res => res.json())
             .then(data => {
                 console.log(data)
@@ -20,7 +20,7 @@ const MyItems = () => {
             })
     }, [])
     useEffect(() => {
-        fetch(`https://safe-crag-17725.herokuapp.com/allDevices?page=${page}&pageSize=${pageSize}`)
+        fetch(`https://electric-warehose-server.onrender.com/allDevices?page=${page}&pageSize=${pageSize}`)
             .then(res => res.json())
             .then(data => setAllItems(data))
     }, [page,pageSize])

@@ -28,8 +28,8 @@ const AddDevice = () => {
         console.log(devices)
 
 
-        // const url = `https://safe-crag-17725.herokuapp.com/devices`
-        fetch('https://safe-crag-17725.herokuapp.com/devices', {
+        // const url = `https://electric-warehose-server.onrender.com/devices`
+        fetch('https://electric-warehose-server.onrender.com/devices', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
