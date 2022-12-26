@@ -1,0 +1,488 @@
+[
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    },
+    {
+      "id": 1,
+      "name": "Marshall Speaker",
+      "description": "Portable and Bluetooth Speaker ",
+      "price": "44599 BDT",
+      "quantity": "100",
+      "supplier": "Gadget & Gear",
+      "img": "https://i.ibb.co/2dw9sNz/device1.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air",
+      "description": "Apple M1 chip with 8-core CPU and 8-core GPU",
+      "price": "142000 BDT",
+      "quantity": "50",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/nC8Ryq7/device2.png"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "description": "Always-On Retina LTPO OLED display, 1,000 nits",
+      "price": "42000 BDT",
+      "quantity": "200",
+      "supplier": "Star Tech",
+      "img": "https://i.ibb.co/rcM2NxR/device3.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 12 Pro Max",
+      "description": "Dolby Vision, HDR10,ROM 128/256/512 GB",
+      "price": "160000 BDT",
+      "quantity": "200",
+      "supplier": "Itech Limited",
+      "img": "https://i.ibb.co/Dwxcvww/device4.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Fan",
+      "description": "Rechargeable fan with 2 years warrenty",
+      "price": "3000 BDT",
+      "quantity": "250",
+      "supplier": "Vision Limited",
+      "img": "https://i.ibb.co/0Xf8xd5/device5.png"
+    },
+    {
+      "id": 6,
+      "name": "Microwave Oven",
+      "description": "Capcity 35 litres,4 stages control",
+      "price": "11500 BDT",
+      "quantity": "350",
+      "supplier": "Singer",
+      "img": "https://i.ibb.co/L1ntF2C/device6.png"
+    }
+  ]
